@@ -1,0 +1,14 @@
+.DS_Store
+.vscode
+.idea
+*.iml
+
+#Build results
+/coverage
+dist
+
+node_modules
+.eslintcache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
